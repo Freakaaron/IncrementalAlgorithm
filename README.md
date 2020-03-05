@@ -1,0 +1,2 @@
+# 3D Convex Hull - Incremental Algorithm 
+The `incremental_algorithm.cpp` is a C++ implementation of the Incremental Algorithm used for drawing convex hulls in 3D space. The output is displayed on a Xlib window with the red lines representing the edges and black dots representing the vertices. The format of the input is in the form of `P (x,y,z)` where x, y, and z represent the x, y, and z coordinates. **The input is scaled so that it can be accomodated in the size of the Xlib window.**
